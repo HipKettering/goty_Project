@@ -26,11 +26,12 @@
     {"id":{"name":"s_front","path":"sprites/s_front/s_front.yy",},"order":16,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":2,},
     {"id":{"name":"spr_lvl_1","path":"sprites/spr_lvl_1/spr_lvl_1.yy",},"order":32,},
-    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":36,},
+    {"id":{"name":"green_room","path":"rooms/green_room/green_room.yy",},"order":36,},
     {"id":{"name":"spr_seascape","path":"sprites/spr_seascape/spr_seascape.yy",},"order":22,},
+    {"id":{"name":"obj_skel_down_walk","path":"objects/obj_skel_down_walk/obj_skel_down_walk.yy",},"order":37,},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":26,},
     {"id":{"name":"s_cowboyNPC","path":"sprites/s_cowboyNPC/s_cowboyNPC.yy",},"order":17,},
-    {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},"order":35,},
+    {"id":{"name":"spr_skel_walk_down","path":"sprites/spr_skel_walk_down/spr_skel_walk_down.yy",},"order":35,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -48,7 +49,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rmForest","path":"rooms/rmForest/rmForest.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
-    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"roomId":{"name":"green_room","path":"rooms/green_room/green_room.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":11,},
