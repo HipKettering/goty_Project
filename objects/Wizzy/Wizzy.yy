@@ -7,7 +7,7 @@
     "path": "sprites/s_back/s_back.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -31,7 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "goty_Project",
+    "path": "goty_Project.yyp",
   },
 }
